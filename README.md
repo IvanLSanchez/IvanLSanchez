@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 Actualmente no estoy Trabajando. <br>📚 Estudie Bachiller en informática en la Casa Salesiana Pio IX (2018-2022). <br>📚 Estoy estudiando Ingeniería Informática en UADE (2023 - Actualidad). <br>🗓 Soy cumplidor con las fechas de entrega. <br>🧩 Me encanta los desafios y el aprendizaje que ellos conllevan.
+💼 Actualmente no estoy Trabajando. <br>📚 Estudie Bachiller en informática en la Casa Salesiana Pio IX (2018-2022). <br>📚 Estoy estudiando Ingeniería Informática en UADE (2023 - Actualidad). <br>🗓 Soy cumplidor con las fechas de entrega. <br>🧩 Me encanta los desafios y el aprendizaje que ellos conllevan. <br><br> 🏆 Ganador de la 2da copa de alogaritmia UADE
 
 
 ## 🌐 Socials:
