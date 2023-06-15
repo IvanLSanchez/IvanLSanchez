@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 Actualmente no estoy Trabajando. <br>📚 Estudie Bachiller en informática en la Casa Salesiana Pio IX (2018-2022))<br>📚 Estoy estudiando Ingeniería Informática en UADE (2023 - Actualidad)
+💼 Actualmente no estoy Trabajando. <br>📚 Estudie Bachiller en informática en la Casa Salesiana Pio IX (2018-2022). <br>📚 Estoy estudiando Ingeniería Informática en UADE (2023 - Actualidad). <br>🗓 Soy cumplidor con las fechas de entrega. <br>🧩 Me encanta los desafios y el aprendizaje que ellos conllevan.
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IvanLSanchez&theme=nord&no-frame=true&no-bg=false&margin-w=4)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=IvanLSanchez&icon=0&color=6)](https://visitcount.itsvg.in)
